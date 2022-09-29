@@ -3,3 +3,4 @@ A miniproject for intro to Data Science course. The goal is to evaluate and anal
 
 ### Data
 * Weather data from the [Finnish Meteorological Institute](https://www.ilmatieteenlaitos.fi/havaintojen-lataus)
+* Movie data from [Finnish Film Foundation](https://www.ses.fi/tietoa-elokuva-alasta/tilastointi-ja-tutkimus/avoin-data/)
